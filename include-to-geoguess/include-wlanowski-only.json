@@ -15,6 +15,19 @@
         },
 		{
             "name": {
+               "en": "German Level Crossings 🇩🇪",
+               "fr": "Passages à niveau allemands  🇩🇪"
+            },
+            "description": {
+                "fr": "German Level Crossings",
+                "en": "Passages à niveau allemands "
+            },
+            "author": "wlanowski, Geodata by Deutsche Bahn AG (CC-BY 4.0)",
+            "imageUrl": "https://live.staticflickr.com/65535/47993867138_a5f720503d.jpg",
+            "url": "https://raw.githubusercontent.com/wlanowski/wlanowskis-maps-for-geoguess/main/german-level-crossings/german-level-crossings.min.geojson"
+        },
+		{
+            "name": {
                "en": "Big airports ✈️",
                "fr": "Aéroports grands ✈️"
             },
