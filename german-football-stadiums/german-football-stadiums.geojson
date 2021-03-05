@@ -1,0 +1,1475 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.62465,48.2188 ]
+    },
+    "properties": {
+    "title":"Allianz Arena (FC Bayern München)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.45177,51.49257 ]
+    },
+    "properties": {
+    "title":"Signal Iduna Park (Borussia Dortmund)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.34823,51.34579 ]
+    },
+    "properties": {
+    "title":"Red Bull Arena (RB Leipzig)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.00221,51.03822 ]
+    },
+    "properties": {
+    "title":"BayArena (Bayer Leverkusen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.38539,51.17463 ]
+    },
+    "properties": {
+    "title":"Borussia-Park (Borussia Mönchengladbach)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.80385,52.43268 ]
+    },
+    "properties": {
+    "title":"Volkswagen Arena (VFL Wolfsburg)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.64552,50.0686 ]
+    },
+    "properties": {
+    "title":"Commerzbank Arena (Eintracht Frankfurt)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.83762,53.06644 ]
+    },
+    "properties": {
+    "title":"Wohninvest Weser-Stadion (Werder Bremen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.88764,49.23803 ]
+    },
+    "properties": {
+    "title":"PreZero Arena (TSG 1899 Hoffenheim)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.73314,51.26164 ]
+    },
+    "properties": {
+    "title":"Merkur Spiel-Arena (Fortuna Düsseldorf)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.23951,52.51465 ]
+    },
+    "properties": {
+    "title":"Olympiastadion Berlin (Hertha BSC)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.22439,49.98392 ]
+    },
+    "properties": {
+    "title":"Opel Arena (1. FSV Mainz 05)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.89288,47.98896 ]
+    },
+    "properties": {
+    "title":"Schwarzwald Stadion (SC Freiburg)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.06759,51.55459 ]
+    },
+    "properties": {
+    "title":"Veltins-Arena (FC Schalke 04)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.88595,48.32312 ]
+    },
+    "properties": {
+    "title":"WWK-Arena (FC Augsburg)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8751,50.93352 ]
+    },
+    "properties": {
+    "title":"Rheinenergiestadion (1. FC Köln)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.71106,51.73078 ]
+    },
+    "properties": {
+    "title":"Benteler-Arena (SC Paderborn 07)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.56814,52.45737 ]
+    },
+    "properties": {
+    "title":"Stadion An der Alten Försterei (1. FC Union Berlin)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.23211,48.79225 ]
+    },
+    "properties": {
+    "title":"Mercedes-Benz Arena (VFB Stuttgart)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.73122,52.36003 ]
+    },
+    "properties": {
+    "title":"HDI Arena (Hannover 96)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.1257,49.42626 ]
+    },
+    "properties": {
+    "title":"Max-Morlock-Stadion (1. FC Nürnberg)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.89864,53.58717 ]
+    },
+    "properties": {
+    "title":"Volksparkstadion (Hamburger SV)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.13921,48.66845 ]
+    },
+    "properties": {
+    "title":"Voith-Arena (1. FC Heidenheim)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1237,54.34918 ]
+    },
+    "properties": {
+    "title":"Holstein-Stadion (Holstein Kiel)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.51674,52.03203 ]
+    },
+    "properties": {
+    "title":"SchücoArena (Arminia Bielefeld)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.10741,48.9908 ]
+    },
+    "properties": {
+    "title":"Continental Arena (SSV Jahn Regensburg)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.96773,53.55458 ]
+    },
+    "properties": {
+    "title":"Millerntor-Stadion (FC St. Pauli)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.67239,49.85773 ]
+    },
+    "properties": {
+    "title":"Merck-Stadion am Böllenfalltor (SV Darmstadt 98)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.23647,51.48991 ]
+    },
+    "properties": {
+    "title":"Vonovia Ruhrstadion (VfL Bochum)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.74804,51.0409 ]
+    },
+    "properties": {
+    "title":"Rudolf-Harbig-Stadion (Dynamo Dresden)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.99921,49.487 ]
+    },
+    "properties": {
+    "title":"Sportpark Ronhof Thomas Sommer (SpVgg Greuther Fürth)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.71128,50.59782 ]
+    },
+    "properties": {
+    "title":"Erzgebirgsstadion (FC Erzgebirge Aue)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.64772,49.33207 ]
+    },
+    "properties": {
+    "title":"BWT-Stadion am Hardtwald (SV Sandhausen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.07129,52.28082 ]
+    },
+    "properties": {
+    "title":"Stadion an der Bremer Brücke (VfL Osnabrück)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.41304,49.02002 ]
+    },
+    "properties": {
+    "title":"Wildparkstadion (Karlsruhe SC)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.25657,50.0713 ]
+    },
+    "properties": {
+    "title":"Brita-Arena (SV Wehen Wiesbaden)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.48552,48.74546 ]
+    },
+    "properties": {
+    "title":"Audi-Sportpark (FC Ingolstadt 04)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.67079,52.12513 ]
+    },
+    "properties": {
+    "title":"MDCC-Arena (1. FC Magdeburg)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.77869,51.40901 ]
+    },
+    "properties": {
+    "title":"Schauinsland-Reisen-Arena (MSV Duisburg)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.96214,51.46534 ]
+    },
+    "properties": {
+    "title":"Erdgas Sportpark (Hallescher FC)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.9329,49.7672 ]
+    },
+    "properties": {
+    "title":"flyeralarm Arena (Würzburger Kickers)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.09512,54.08497 ]
+    },
+    "properties": {
+    "title":"Ostseestadion (Hansa Rostock)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.51936,50.72854 ]
+    },
+    "properties": {
+    "title":"Stadion Zwickau (FSV Zwickau)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.62457,51.92985 ]
+    },
+    "properties": {
+    "title":"Preußenstadion (SC Preußen 06 e. V. Münster)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.77643,49.4347 ]
+    },
+    "properties": {
+    "title":"Fritz-Walter-Stadion (1. FC Kaiserslautern)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.61584,48.07378 ]
+    },
+    "properties": {
+    "title":"Sportpark Unterhaching (SpVgg Unterhaching)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.73314,51.26164 ]
+    },
+    "properties": {
+    "title":"Merkur Spiel-Arena (KFC Uerdingen 05)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.57448,48.111 ]
+    },
+    "properties": {
+    "title":"Grünwalder Stadion (TSV 1860 München)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.298,52.70802 ]
+    },
+    "properties": {
+    "title":"Hänsch-Arena (SV Meppen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.58291,50.91606 ]
+    },
+    "properties": {
+    "title":"Ernst-Abbe-Sportfeld (FC Carl Zeiss Jena)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.39294,48.98053 ]
+    },
+    "properties": {
+    "title":"mechatronik Arena (SG Sonnenhof Großaspach)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.52157,52.29012 ]
+    },
+    "properties": {
+    "title":"Eintracht-Stadion (Eintracht Braunschweig)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.94565,50.84219 ]
+    },
+    "properties": {
+    "title":"Stadion – An der Gellertstraße (Chemnitzer FC)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.5025,49.47948 ]
+    },
+    "properties": {
+    "title":"Carl-Benz-Stadion (SV Waldhof Mannheim)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.03043,50.94517 ]
+    },
+    "properties": {
+    "title":"Sportpark Höhenberg (FC Viktoria Köln)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.57448,48.111 ]
+    },
+    "properties": {
+    "title":"Grünwalder Stadion (FC Bayern München II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.80689,52.43458 ]
+    },
+    "properties": {
+    "title":"AOK Stadion Wolfsburg (VfL Wolfsburg II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.81872,50.65731 ]
+    },
+    "properties": {
+    "title":"Stadion Lohmühle (VfB Lübeck)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.84297,53.06374 ]
+    },
+    "properties": {
+    "title":"Weserstadion Platz 11 (Werder Bremen II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.40689,54.76036 ]
+    },
+    "properties": {
+    "title":"Manfred-Werner-Stadion (SC Weiche Flensburg 08)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.38045,53.70385 ]
+    },
+    "properties": {
+    "title":"Kehdinger Stadion (SV Drochtersen/Assel)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.7729,52.37658 ]
+    },
+    "properties": {
+    "title":"Eilenriedestadion (Hannover 96 II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.94451,53.58924 ]
+    },
+    "properties": {
+    "title":"Wolfgang-Meyer-Sportanlage (Hamburger SV II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.48309,52.61632 ]
+    },
+    "properties": {
+    "title":"Sportplatz Waldsportstätten (BSV Rehden)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.20645,53.12955 ]
+    },
+    "properties": {
+    "title":"Marschweg-Stadion (VfB Oldenburg)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1237,54.34918 ]
+    },
+    "properties": {
+    "title":"Holstein-Stadion (Holstein Kiel II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.60095,52.40792 ]
+    },
+    "properties": {
+    "title":"Wilhelm-Langrehr-Stadion (TSV Havelse)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.05833,53.09128 ]
+    },
+    "properties": {
+    "title":"53acht-Arena (SSV Jeddeloh)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.97707,53.67702 ]
+    },
+    "properties": {
+    "title":"Edmund-Plambeck-Stadion (Eintracht Norderstedt)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.97707,53.67702 ]
+    },
+    "properties": {
+    "title":"Edmund-Plambeck-Stadion (FC St. Pauli II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.7729,52.37657 ]
+    },
+    "properties": {
+    "title":"Sportanlage Sülzwiesen (Lüneburger SK Hansa)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.7675,52.4026 ]
+    },
+    "properties": {
+    "title":"HSC-Stadion Constantinstraße (Hannoverscher SC)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.91152,53.5555 ]
+    },
+    "properties": {
+    "title":"Adolf-Jäger-Kampfbahn (Altona 93)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.08725,54.18952 ]
+    },
+    "properties": {
+    "title":"Stadion an der Meldorfer Straße (Heider SV)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.3456,51.75158 ]
+    },
+    "properties": {
+    "title":"Stadion der Freundschaft (Energie Cottbus)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.35931,52.53002 ]
+    },
+    "properties": {
+    "title":"Poststadion Berlin (Berliner AK 07)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.78303,51.52118 ]
+    },
+    "properties": {
+    "title":"Albert-Kuntz-Sportpark (Wacker Nordhausen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.23674,52.51717 ]
+    },
+    "properties": {
+    "title":"Stadion auf dem Wurfplatz (Hertha BSC II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.03726,50.96025 ]
+    },
+    "properties": {
+    "title":"Steigerwaldstadion (FC Rot-Weiß Erfurt)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.41926,51.30296 ]
+    },
+    "properties": {
+    "title":"Bruno-Plache-Stadion (1. FC Lokomotive Leipzig)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.09478,52.39912 ]
+    },
+    "properties": {
+    "title":"Karl-Liebknecht-Stadion (SV Babelsberg 03)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.04998,51.8763 ]
+    },
+    "properties": {
+    "title":"Friedensstadion Halberstadt (VfB Germania Halberstadt)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.38666,50.50616 ]
+    },
+    "properties": {
+    "title":"VfB-Stadion Auerbach/Vogtl. (VfB Auerbach)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.28315,51.05367 ]
+    },
+    "properties": {
+    "title":"bluechip-Arena (ZFC Meuselwitz)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.32396,52.43933 ]
+    },
+    "properties": {
+    "title":"Stadion Lichterfelde (FC Viktoria 1889 Berlin)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.40534,52.54306 ]
+    },
+    "properties": {
+    "title":"Friedrich-Ludwig-Jahn-Sportpark (BFC Dynamo)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.03605,52.36661 ]
+    },
+    "properties": {
+    "title":"Bonava-Arena (FSV Union Fürstenwalde)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.40534,52.54306 ]
+    },
+    "properties": {
+    "title":"Friedrich-Ludwig-Jahn-Sportpark (VSG Altglienicke)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.18643,51.12963 ]
+    },
+    "properties": {
+    "title":"Volksbank Sportpark an der Wesenitz (Bischofswerdaer FV 08)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.36861,52.59741 ]
+    },
+    "properties": {
+    "title":"Stadion Vogelgesang Rathenow (FSV Optik Rathenow)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.48684,52.51669 ]
+    },
+    "properties": {
+    "title":"Hans-Zoschke-Stadion (SV Lichtenberg 47)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.30767,51.35825 ]
+    },
+    "properties": {
+    "title":"Alfred-Kunze-Sportpark (BSG Chemie Leipzig)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.92065,52.27093 ]
+    },
+    "properties": {
+    "title":"Frimo Stadion (Sportfreunde Lotte)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.94357,50.91744 ]
+    },
+    "properties": {
+    "title":"Südstadion (SC Fortuna Köln)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8545,51.49363 ]
+    },
+    "properties": {
+    "title":"Stadion Niederrhein (Rot-Weiß Oberhausen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.50682,52.24939 ]
+    },
+    "properties": {
+    "title":"Häcker-Wiehenstadion (SV Rödinghausen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.04583,48.24698 ]
+    },
+    "properties": {
+    "title":"Grenzlandstadion (Borussia Mönchengladbach II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.45419,51.49281 ]
+    },
+    "properties": {
+    "title":"Stadion Rote Erde (Borussia Dortmund II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.09736,50.79314 ]
+    },
+    "properties": {
+    "title":"Tivoli (Alemannia Aachen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.51337,51.88339 ]
+    },
+    "properties": {
+    "title":"Sportclub Arena Verl (SC Verl)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.97665,51.48687 ]
+    },
+    "properties": {
+    "title":"Stadion Essen (Rot-Weiss Essen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.90571,50.90829 ]
+    },
+    "properties": {
+    "title":"Franz-Kremer-Stadion (1. FC Köln II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.10498,51.23915 ]
+    },
+    "properties": {
+    "title":"Stadion am Zoo (Wuppertaler SV)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.11865,51.48577 ]
+    },
+    "properties": {
+    "title":"Lohrheidestadion (SG Wattenscheid 09)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.82717,51.22497 ]
+    },
+    "properties": {
+    "title":"Paul-Janes-Stadion (Fortuna Düsseldorf II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.3402,51.69351 ]
+    },
+    "properties": {
+    "title":"Liebelt-Arena (SV Lippstadt 08)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.0845,50.74817 ]
+    },
+    "properties": {
+    "title":"Sportpark Nord (Bonner SC)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.11968,50.99397 ]
+    },
+    "properties": {
+    "title":"BELKAW-Arena (SV Bergisch Gladbach 09)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.70301,51.46307 ]
+    },
+    "properties": {
+    "title":"PCC-Stadion (VfB Homberg)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.06401,51.55864 ]
+    },
+    "properties": {
+    "title":"Trainingsplatz am Ernst-Kuzorra-Weg (FC Schalke 04 II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1977,51.74064 ]
+    },
+    "properties": {
+    "title":"Stauseekampfbahn (TuS Haltern)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.07218,48.84053 ]
+    },
+    "properties": {
+    "title":"Ostalb Arena (VfR Aalen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.8701,49.25721 ]
+    },
+    "properties": {
+    "title":"Hermann-Neuberger-Stadion (1. FC Saarbrücken)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.35504,49.31617 ]
+    },
+    "properties": {
+    "title":"Waldstadion Homburg (FC 08 Homburg)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.12171,49.3188 ]
+    },
+    "properties": {
+    "title":"Ursapharm-Arena an der Kaiserlinde (SV Elversberg)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.79872,50.09466 ]
+    },
+    "properties": {
+    "title":"Sparda-Bank-Hessen-Stadion (Kickers Offenbach)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.00954,48.4045 ]
+    },
+    "properties": {
+    "title":"Donaustadion (SSV Ulm 1846 Fußball)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.88111,47.98396 ]
+    },
+    "properties": {
+    "title":"Möslestadion (SC Freiburg II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.19088,50.7402 ]
+    },
+    "properties": {
+    "title":"SIBRE-Sportzentrum Haarwasen Haiger (TSV Steinbach Haiger)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.60986,49.21853 ]
+    },
+    "properties": {
+    "title":"Sportpark Husterhöhe (FK Pirmasens)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.84216,49.27827 ]
+    },
+    "properties": {
+    "title":"Dietmar-Hopp-Stadion (TSG 1899 Hoffenheim II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.85851,48.28208 ]
+    },
+    "properties": {
+    "title":"Bizerba-Arena (TSG Balingen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.72322,50.1281 ]
+    },
+    "properties": {
+    "title":"PSD Bank Arena (FSV Frankfurt)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.63845,49.31584 ]
+    },
+    "properties": {
+    "title":"Stadion im Dietmar-Hopp-Sportpark (FC-Astoria Walldorf)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.24571,50.00096 ]
+    },
+    "properties": {
+    "title":"Stadion am Bruchweg (1. FSV Mainz 05 II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.70447,50.58569 ]
+    },
+    "properties": {
+    "title":"Waldstadion Gießen (FC Gießen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.58661,50.33049 ]
+    },
+    "properties": {
+    "title":"Stadion Oberwerth (Rot-Weiß Koblenz)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.74354,48.119 ]
+    },
+    "properties": {
+    "title":"Kaiserstuhlstadion (Bahlinger SC)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.0581,50.0793 ]
+    },
+    "properties": {
+    "title":"Städtisches Stadion am Prischoß (FC Bayern Alzenau)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.19239,48.88776 ]
+    },
+    "properties": {
+    "title":"Liqui-Moly-Stadion (VfB Eichstätt)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.83639,48.17898 ]
+    },
+    "properties": {
+    "title":"Wacker-Arena (Wacker Burghausen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.20298,50.05133 ]
+    },
+    "properties": {
+    "title":"Willy-Sachs-Stadion (1. FC Schweinfurt 05)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.131,49.43594 ]
+    },
+    "properties": {
+    "title":"Max-Morlock-Platz (1. FC Nürnberg II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.1651,47.97922 ]
+    },
+    "properties": {
+    "title":"Memminger Arena (FC Memmingen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.09228,48.21793 ]
+    },
+    "properties": {
+    "title":"Vöhlinstadion (FV Illertissen)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.27585,48.31492 ]
+    },
+    "properties": {
+    "title":"SMR-Arena (TSV Buchbach)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.58722,49.94532 ]
+    },
+    "properties": {
+    "title":"Hans-Walter-Wild-Stadion (SpVgg Bayreuth)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.13,49.97034 ]
+    },
+    "properties": {
+    "title":"Stadion am Schönbusch (Viktoria Aschaffenburg)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.64341,48.25985 ]
+    },
+    "properties": {
+    "title":"GARMIN Stadion am See (VfR Garching)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.37385,48.58781 ]
+    },
+    "properties": {
+    "title":"Sportanlage am Reuthinger Weg (SV Schalding-Heining)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.87596,48.35537 ]
+    },
+    "properties": {
+    "title":"Rosenaustadion (FC Augsburg II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.90897,49.49376 ]
+    },
+    "properties": {
+    "title":"Sportzentrum Auf der Tulpe (SpVgg Greuther Fürth II)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.00661,47.86709 ]
+    },
+    "properties": {
+    "title":"Jahnstadion (TSV 1860 Rosenheim)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.74826,48.16212 ]
+    },
+    "properties": {
+    "title":"Sportpark Heimstetten (SV Heimstetten)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.89194,50.35362 ]
+    },
+    "properties": {
+    "title":"Sportanlage Schulstraße (TSV Aubstadt)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.57448,48.111 ]
+    },
+    "properties": {
+    "title":"Städtisches Stadion an der Grünwalder Straße (SV Türkgücü-Ataspor München)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.90486,48.69524 ]
+    },
+    "properties": {
+    "title":"Georg-Weber-Stadion (TSV 1896 Rain)"
+    }
+  }
+]
+}
